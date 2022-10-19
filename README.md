@@ -6,6 +6,8 @@ As we all know, "Model-Agnostic Meta-Learning" can solve few-shot learning probl
 
 Today, I want to show a new optimizer which call **Meta-SGD**. On the basis of MAML, the accuracy of the model after training can be improved.
 
+If this works for you, please give me a star, this is very important to me.😊
+
 ## Part 2. Quick  Start
 
 1. Pull repository.
